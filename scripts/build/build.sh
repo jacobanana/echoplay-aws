@@ -1,4 +1,4 @@
-echo "EchoPlay AWS play build"
+echo "EchoPlay AWS build"
 BUILD_DIR=$(pwd)"/build"
 TMP_DIR=$BUILD_DIR"/echoplay-aws"
 ZIP_FILE="echoplay-aws.zip"
