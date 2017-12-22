@@ -1,9 +1,17 @@
 {
-  "name": "Node-Webiste-EB-Sample-App",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {},
+  "name": "echoplay-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echoplay-server": "file:echoplay-server"
+  },
+  "devDependencies": {
+    "electron": "^1.7.9"
   }
 }

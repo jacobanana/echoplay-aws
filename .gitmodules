@@ -1,0 +1,3 @@
+[submodule "echoplay-server"]
+	path = echoplay-server
+	url = https://github.com/jacobanana/echoplay-server
