@@ -1,3 +1,6 @@
 [submodule "echoplay-server"]
 	path = echoplay-server
 	url = https://github.com/jacobanana/echoplay-server
+[submodule "scripts/git-archive-all"]
+	path = scripts/git-archive-all
+	url = https://github.com/jacobanana/git-archive-all.sh
